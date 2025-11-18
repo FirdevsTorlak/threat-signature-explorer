@@ -1,0 +1,4 @@
+code,name,type,band,base_rcs_dbsm,base_range_km,max_range_km,noise_floor_db,detection_snr_db
+radar_basic,Surface-search radar (X-band),radar,X-band,10,25,40,,
+radar_lf,Long-range surveillance radar,radar,L-band,12,60,80,,
+sonar_basic,Hull-mounted active sonar,sonar,LowFreq,,,,80,10
